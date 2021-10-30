@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50c44c09.chunk.css",
+    "main.js": "/static/js/main.b67dcb37.chunk.js",
+    "main.js.map": "/static/js/main.b67dcb37.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.364bbf3c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.364bbf3c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.df97a12d.chunk.js": "/static/js/2.df97a12d.chunk.js",
+    "static/js/2.df97a12d.chunk.js.map": "/static/js/2.df97a12d.chunk.js.map",
+    "static/js/3.5013da71.chunk.js": "/static/js/3.5013da71.chunk.js",
+    "static/js/3.5013da71.chunk.js.map": "/static/js/3.5013da71.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.50c44c09.chunk.css.map": "/static/css/main.50c44c09.chunk.css.map",
+    "static/js/2.df97a12d.chunk.js.LICENSE.txt": "/static/js/2.df97a12d.chunk.js.LICENSE.txt",
+    "static/media/loading.50f507ec.gif": "/static/media/loading.50f507ec.gif",
+    "static/media/Location.module.css": "/static/media/mapa.1349463a.png",
+    "static/media/Games.module.css": "/static/media/yl_no.9b5c57f0.cur",
+    "static/media/pokebola.dc18ea15.gif": "/static/media/pokebola.dc18ea15.gif",
+    "static/media/tm.ff36ff32.png": "/static/media/tm.ff36ff32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.364bbf3c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.df97a12d.chunk.js",
+    "static/css/main.50c44c09.chunk.css",
+    "static/js/main.b67dcb37.chunk.js"
+  ]
+}
